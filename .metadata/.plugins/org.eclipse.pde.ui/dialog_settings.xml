@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="osgiProject" value="true"/>
+	<item key="generateActivator" value="true"/>
+	<item key="contextFactoryClassName" value="org.apache.activemq.artemis.jndi.ActiveMQInitialContextFactory"/>
+	<item key="theJarName" value="artemis-jms-client-all-2.31.0.jar,"/>
+	<item key="generatePluginActivator" value="false"/>
+	<item key="apiAnalysis" value="false"/>
+	<item key="rcpPlugin" value="false"/>
+	<list key="providers">
+		<item value="TIBCO"/>
+	</list>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="PDEFormActionManager">
+	</section>
+</section>

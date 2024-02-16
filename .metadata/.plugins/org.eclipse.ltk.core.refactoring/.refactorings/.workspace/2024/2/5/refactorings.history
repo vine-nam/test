@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;ActivemqSample/Processes/activemqsample/test.bwp&apos;" deleteContents="false" description="Delete resource &apos;ActivemqSample/Processes/activemqsample/test.bwp&apos;" element1="/ActivemqSample/Processes/activemqsample/test.bwp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706837170566"/>
+</session>
